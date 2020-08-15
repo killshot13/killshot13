@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**killshot13/killshot13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub. Browse around as you please!
 
-Here are some ideas to get you started:
+###### Personal
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/killshot13/my-stack) 
+###### Company
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/safe-this-home-llc/main-site-stack) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Codewars
+![Codewars Kata Badge](https://www.codewars.com/users/killshot13/badges/large)
+
+### I'm a proud Ironhack graduate!
+![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)
