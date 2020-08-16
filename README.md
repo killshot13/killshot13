@@ -5,7 +5,7 @@
 ### Welcome to my GitHub. Browse around as you please!
 
 #### Personal
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/killshot13/my-stack) 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/killshot13/personal-stack) 
 
 #### Company
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/safe-this-home-llc/main-site-stack) 
