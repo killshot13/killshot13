@@ -13,4 +13,6 @@
 #### I'm a proud Ironhack graduate!
 ![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)
 
+#### You can also check out my cool [developer story](https://stackoverflow.com/story/killshot13) on Stack Overflow!
+
 
