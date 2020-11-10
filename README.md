@@ -15,13 +15,13 @@
 
 ♦ **Languages:** JavaScript | PHP | C# | Python | Bash
 
-♦ **Frontend:** React.js | HTML5 | CSS3 | Flexbox | SASS | Bulma | jQuery
+♦ **Frontend:** React.js | WordPress | jQuery | HTML5 | CSS3 | SASS | Bulma  
 
 ♦ **Backend:** Node.js | Express | REST API | SMTP | Apache Server | Nginx
 
 ♦ **Database:** MongoDB | MySQL | PostgreSQL | Access
 
-♦ **DevOps:** Docker | AWS | Heroku | Travis CI | Postman | WordPress
+♦ **DevOps:** Docker | AWS | Heroku | Travis CI | Postman
 
 ♦ **Advanced:** SEO | CyberSec | RPA | EOSIO<br></br>
 ## COOL STUFF
