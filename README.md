@@ -23,7 +23,7 @@
 
 ♦ **DevOps:** Docker | AWS | Heroku | Travis CI | Postman
 
-♦ **Advanced:** SEO | CyberSec | RPA | EOSIO<br></br>
+♦ **Advanced:** SEO | CyberSec | RPA | EOSIO | SharePoint<br></br>
 ## COOL STUFF
 
 #### I'm a proud Ironhack graduate!
