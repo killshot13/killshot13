@@ -13,15 +13,17 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/safe-this-home-llc/main-site-stack)<br></br>
 ## CURRENT SKILLS
 
-♦ **Languages:** Javascript, PHP, C#, Python, Java
+♦ **Languages:** Javascript, PHP, C#, Python, Java, Bash
 
-♦ **Frontend:** React, jQuery, HTML5, CSS3, BulmaCSS, SASS, Flexbox, Web Components
+♦ **Frontend:** React, HTML5, CSS3, Flexbox, SASS, Bulma, jQuery
 
-♦ **Backend:** Express, Apache Server, Postman, Curl, Nginx
+♦ **Backend:** Node, Express, REST API, SMTP, Apache Server, Nginx
 
-♦ **Database:** Mongo, MySQL, PostgreSQL
+♦ **Database:** MongoDB, MySQL, PostgreSQL, Access
 
-♦ **DevOps:** Docker<br></br>
+♦ **DevOps:** Docker, AWS, Heroku, Travis CI, Postman
+
+♦ **Advanced:** SEO, Cybersec, RPA, EOSIO<br></br>
 ## COOL STUFF
 
 #### I'm a proud Ironhack graduate!
