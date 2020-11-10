@@ -13,7 +13,7 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/safe-this-home-llc/main-site-stack)<br></br>
 ## CURRENT SKILLS
 
-♦ **Languages:** Javascript, JavaScript, PHP, C#, Python, Java
+♦ **Languages:** Javascript, PHP, C#, Python, Java
 
 ♦ **Frontend:** React, jQuery, HTML5, CSS3, BulmaCSS, SASS, Flexbox, Web Components
 
