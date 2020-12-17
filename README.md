@@ -9,7 +9,7 @@
 #### Personal
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/killshot13/personal-stack) 
 
-#### Professional
+#### Company
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/safe-this-home-llc/main-site-stack)<br></br>
 ## CURRENT SKILLS
 
