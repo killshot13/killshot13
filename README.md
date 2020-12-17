@@ -32,3 +32,5 @@
 #### My personality according to Adobe 😅
 ![Adobe Personality Badge](/friendly-superpower-xs.png)
 
+#### My dev summary from CodersRank 
+![CodersRank Summary Widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=killshot13)
