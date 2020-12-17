@@ -33,4 +33,4 @@
 ![Adobe Personality Badge](/friendly-superpower-xs.png)
 
 #### My dev summary from CodersRank 
-![CodersRank Summary Widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=killshot13&badges=1&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px;--width:240)
+![CodersRank Summary Widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=killshot13&badges=1&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px;--width:100)
