@@ -3,7 +3,7 @@
 
 #### Welcome to my GitHub. Browse around as you please!
 #### I have a passion for web development & design, cloud computing, and voice technology.
-#### You can also check out my cool 😎[developer story](https://stackoverflow.com/story/killshot13) on [Stack Overflow](https://stackoverflow.com/) or my [year in review](https://profile.codersrank.io/year-in-review-2020/user/2cea65b1a6317e3571aba535c7536519/) on [CodersRank](https://codersrank.io/)!<br></br>
+#### You can also check out my cool 😎[developer story](https://stackoverflow.com/story/killshot13) on Stack Overflow or my [year in review](https://profile.codersrank.io/year-in-review-2020/user/2cea65b1a6317e3571aba535c7536519/) on CodersRank!<br></br>
 ## CURRENT STACK
 
 #### Personal
