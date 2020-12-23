@@ -35,13 +35,4 @@
 #### I'm a proud Ironhack graduate!
 ![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)
 
-<div>
-  <iframe 
-          src="https://github.com/sponsors/killshot13/button" 
-          title="Sponsor killshot13" 
-          height="35" 
-          width="116" 
-          style="border: 0;"
-          >
-  </iframe>
-</div>
+![]("https://github.com/sponsors/killshot13/button")
