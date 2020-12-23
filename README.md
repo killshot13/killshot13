@@ -26,11 +26,13 @@
 ♦ **Advanced:** SEO | CyberSec | RPA | EOSIO | SharePoint<br></br>
 ## COOL STUFF
 
-#### I'm a proud Ironhack graduate!
-![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)
+#### My dev summary from CodersRank 
+![CodersRank Summary Widget](/crsum_profile.png)
 
 #### My personality according to Adobe 😅
 ![Adobe Personality Badge](/friendly-superpower-xs.png)
 
-#### My dev summary from CodersRank 
-![CodersRank Summary Widget](/crsum_profile.png)
+#### I'm a proud Ironhack graduate!
+![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)
+
+<iframe src="https://github.com/sponsors/killshot13/button" title="Sponsor killshot13" height="35" width="116" style="border: 0;"></iframe>
