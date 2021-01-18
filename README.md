@@ -1,9 +1,9 @@
 <a href="https://dev.to/killshot13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michael R.'s DEV Community Profile" height="50" width="50"></a>
 ## Hi There! 👋 
 ![Codewars Kata Badge](https://www.codewars.com/users/killshot13/badges/large)
-#### Welcome to my GitHub.
-#### I have a passion for web development & design, cloud computing, and voice technology.
-#### Browse around as you please, or check out my cool 😎[developer story](https://stackoverflow.com/story/killshot13) on Stack Overflow!
+### Welcome to my GitHub.
+### I have a passion for web development & design, cloud computing, and voice technology.
+### Browse around as you please, or check out my cool 😎[developer story](https://stackoverflow.com/story/killshot13) on Stack Overflow!
 
 ---
 
