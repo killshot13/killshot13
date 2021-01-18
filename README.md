@@ -1,9 +1,9 @@
 ## Hi there! 👋
-![Codewars Kata Badge](https://www.codewars.com/users/killSh0t_13/badges/small)
 
 #### Welcome to my GitHub. Browse around as you please!
 #### I have a passion for web development & design, cloud computing, and voice technology.
 #### You can also check out my cool 😎[developer story](https://stackoverflow.com/story/killshot13) on Stack Overflow or my [year in review](https://profile.codersrank.io/year-in-review-2020/user/2cea65b1a6317e3571aba535c7536519/) on CodersRank!<br></br>
+
 ## CURRENT STACK
 
 #### Personal
@@ -26,11 +26,14 @@
 ♦ **Advanced:** SEO | CyberSec | RPA | EOSIO | SharePoint<br></br>
 ## COOL STUFF
 
-#### My dev summary from CodersRank 
+#### CodeWars Badge
+![Codewars Kata Badge](https://www.codewars.com/users/killshot13/badges/large)
+
+#### CodersRank Dev Summary 
 ![CodersRank Summary Widget](/crsum_profile.png)
 
-#### My personality according to Adobe 😅
+#### Adobe Personality Test 😅
 ![Adobe Personality Badge](/friendly-superpower-xs.png)
 
-#### I'm a proud Ironhack graduate!
+#### Proud Ironhack Graduate!
 ![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)
