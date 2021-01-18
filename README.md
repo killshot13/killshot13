@@ -31,11 +31,6 @@
 #### CodeWars Badge
 ![Codewars Kata Badge](https://www.codewars.com/users/killshot13/badges/large)
 ---
-#### CodersRank Dev Summary 
-![CodersRank Summary Widget](/crsum_profile.png)
----
-#### Adobe Personality Test 😅
-![Adobe Personality Badge](/friendly-superpower-xs.png)
----
 #### Proud Ironhack Graduate!
 ![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)
+---
