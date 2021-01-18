@@ -2,14 +2,19 @@
 ## Hi There! 👋 
 #### Welcome to my GitHub.
 #### I have a passion for web development & design, cloud computing, and voice technology.
-#### Browse around as you please! You can also check out my cool 😎[developer story](https://stackoverflow.com/story/killshot13) on Stack Overflow.
-##
+#### Browse around as you please, or check out my cool 😎[developer story](https://stackoverflow.com/story/killshot13) on Stack Overflow!
+![Codewars Kata Badge](https://www.codewars.com/users/killshot13/badges/large)
+
+---
+
 ## CURRENT STACK
 #### Personal
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/killshot13/personal-stack) 
 #### Company
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/safe-this-home-llc/main-site-stack)<br></br>
-##
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/safe-this-home-llc/main-site-stack)
+
+---
+
 ## CURRENT SKILLS
 ♦ **Languages:** JavaScript | PHP | C# | Python | Bash
 
@@ -22,8 +27,6 @@
 ♦ **DevOps:** Docker | AWS | Heroku | Travis CI | Postman
 
 ♦ **Advanced:** SEO | CyberSec | RPA | EOSIO | SharePoint
-## COOL STUFF
-![Codewars Kata Badge](https://www.codewars.com/users/killshot13/badges/large)
+
 ---
-#### Ironhack Certification Badge
 ![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)
