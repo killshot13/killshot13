@@ -34,11 +34,17 @@
 >## _*Experience*_
 >
 >♦ **Languages:** JavaScript | PHP | C# | Python | Bash
+>
 >♦ **Frontend:** React.js | WordPress | jQuery | HTML5 | CSS3 | SASS | Bulma
+>
 >♦ **Backend:** Node.js | Express | REST API | SMTP | Apache Server | Nginx
+>
 >♦ **Database:** MongoDB | MySQL | PostgreSQL | Access
+>
 >♦ **DevOps:** Docker | AWS | Heroku | Travis CI | Postman
+>
 >♦ **Advanced:** SEO | CyberSec | RPA | EOSIO | SharePoint
+>
 ><p align=center
 >
 >[![killshot13's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshot13&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/killshot13/github-readme-stats)
