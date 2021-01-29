@@ -2,17 +2,17 @@
 >
 >---
 >
->## _*Introduction*_
+># _*Introduction*_
 >
->### Hi There! 👋
+>## Hi There! 👋
 >
->#### Welcome to my GitHub. I have a passion for web development & design, cloud computing, and voice technology
+>### Welcome to my GitHub. I have a passion for web development & design, cloud computing, and voice technology
 >
->#### Browse around as you please, or check out my cool 😎 [developer profile](https://stackoverflow.com/story/killshot13) on Stack Overflow
+>### Browse around as you please, or check out my cool 😎 [developer profile](https://stackoverflow.com/story/killshot13) on Stack Overflow
 >
 >---
 >
->## _*Activity*_
+># _*Activity*_
 >
 ><p align=center
 >
@@ -24,13 +24,18 @@
 >
 >---
 >
->## _*Experience*_
+># _*Experience*_
 >
 >♦ **Languages:** JavaScript | PHP | C# | Python | Bash
+>
 >♦ **Frontend:** React.js | WordPress | jQuery | HTML5 | CSS3 | SASS | Bulma
+>
 >♦ **Backend:** Node.js | Express | REST API | SMTP | Apache Server | Nginx
+>
 >♦ **Database:** MongoDB | MySQL | PostgreSQL | Access
+>
 >♦ **DevOps:** Docker | AWS | Heroku | Travis CI | Postman
+>
 >♦ **Advanced:** SEO | CyberSec | RPA | EOSIO | SharePoint
 >
 >---
