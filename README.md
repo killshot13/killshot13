@@ -2,17 +2,17 @@
 >
 >---
 >
->## _*Introduction*_
+># _*Introduction*_
 >
->### Hi There! 👋
+>## Hi There! 👋
 >
->#### Welcome to my GitHub. I have a passion for web development & design, cloud computing, and voice technology
+>### Welcome to my GitHub. I have a passion for web development & design, cloud computing, and voice technology
 >
->#### Browse around as you please, or check out my cool 😎 [developer profile](https://stackoverflow.com/story/killshot13) on Stack Overflow
+>### Browse around as you please, or check out my cool 😎 [developer profile](https://stackoverflow.com/story/killshot13) on Stack Overflow
 >
 >---
 >
->## _*Activity*_
+># _*Activity*_
 >
 ><p align=center
 >
@@ -31,7 +31,7 @@
 >
 >---
 >
->## _*Experience*_
+># _*Experience*_
 >
 >♦ **Languages:** JavaScript | PHP | C# | Python | Bash
 >
@@ -45,6 +45,7 @@
 >
 >♦ **Advanced:** SEO | CyberSec | RPA | EOSIO | SharePoint
 >
+>## _*Usage*_
 ><p align=center
 >
 >[![killshot13's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshot13&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/killshot13/github-readme-stats)
