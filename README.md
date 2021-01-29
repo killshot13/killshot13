@@ -16,8 +16,26 @@
 >
 ><p align=center
 >
+>[![killshot13's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshot13&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/killshot13/github-readme-stats)
+>
+><p align=center
+>
 >[![Overview](https://github-readme-stats.vercel.app/api?username=killshot13&custom_title=Overview&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 >
+>---
+>
+>## _*Experience*_
+>
+>♦ **Languages:** JavaScript | PHP | C# | Python | Bash
+>♦ **Frontend:** React.js | WordPress | jQuery | HTML5 | CSS3 | SASS | Bulma
+>♦ **Backend:** Node.js | Express | REST API | SMTP | Apache Server | Nginx
+>♦ **Database:** MongoDB | MySQL | PostgreSQL | Access
+>♦ **DevOps:** Docker | AWS | Heroku | Travis CI | Postman
+>♦ **Advanced:** SEO | CyberSec | RPA | EOSIO | SharePoint
+>
+>---
+>
+>## _*Community*_
 >
 ><p align=center
 >
@@ -31,19 +49,8 @@
 >
 >---
 >
->## _*Experience*_
+>## _*Certificates*_
 >
->♦ **Languages:** JavaScript | PHP | C# | Python | Bash
->♦ **Frontend:** React.js | WordPress | jQuery | HTML5 | CSS3 | SASS | Bulma
->♦ **Backend:** Node.js | Express | REST API | SMTP | Apache Server | Nginx
->♦ **Database:** MongoDB | MySQL | PostgreSQL | Access
->♦ **DevOps:** Docker | AWS | Heroku | Travis CI | Postman
->♦ **Advanced:** SEO | CyberSec | RPA | EOSIO | SharePoint
-><p align=center
->
->[![killshot13's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshot13&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/killshot13/github-readme-stats)
->
->---
 ><p align=center
 >
 >[![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)](https://www.credential.net/5c1026d8-e612-4bc5-8cf4-823935963271)
