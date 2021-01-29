@@ -40,11 +40,11 @@
 >
 >---
 >
->## _*Community*_
+># _*Community*_
 >
 ><p align=center
 >
-><a href="https://dev.to/killshot13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michael R.'s DEV Community Profile" height="50" width="50"></a>
+><a href="https://dev.to/killshot13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michael R.'s DEV Community Profile" height="50" width="50" style="BAEDA5"></a>
 ><p align=center
 >
 >[![YouTube Badge](https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://www.linkedin.com/in/dmrehnert)
@@ -66,7 +66,7 @@
 >
 >---
 >
->## _*Certificates*_
+># _*Certificates*_
 >
 ><p align=center
 >
