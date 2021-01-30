@@ -44,16 +44,17 @@
 >
 ><p align=center
 >
-><a href="https://dev.to/killshot13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michael R.'s DEV Community Profile" height="50" width="50" style="BAEDA5"></a>
+><a href="https://dev.to/killshot13"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michael R.'s DEV Community Profile" height="50" width="50" color="BAEDA5"></a>
 ><p align=center
 >
 >[![YouTube Badge](https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://www.linkedin.com/in/dmrehnert)
 ><p align=center
 >
->[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmrehnert) [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/@killsh0t13)
+>[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmrehnert)
+>[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/@killsh0t13)
 ><p align=center
 >
->![Codewars Kata Badge](https://www.codewars.com/users/killshot13/badges/small)
+>[![Codewars Kata Badge](https://www.codewars.com/users/killshot13/badges/small)](https://www.codewars.com/users/killshot13)
 ><p align=center
 >
 >[![StackShare](http://img.shields.io/badge/professional-stack-f98c19.svg?&style=for-the-badge)](https://stackshare.io/safe-this-home-llc/main-site-stack)
@@ -62,7 +63,7 @@
 >[![StackShare](http://img.shields.io/badge/personal-stack-17b9b0.svg?style=for-the-badge)](https://stackshare.io/killshot13/personal-stack)
 ><p align=center
 >
-> [![Medium Badge](https://img.shields.io/badge/Medium-informational?style=for-the-badge&logo=Medium&logoColor=white&color=000000)](https://medium.com/@sth13)
+>[![Medium Badge](https://img.shields.io/badge/Medium-informational?style=for-the-badge&logo=Medium&logoColor=white&color=000000)](https://medium.com/@sth13)
 >
 >---
 >
