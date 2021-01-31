@@ -1,4 +1,4 @@
-[![Michael's GitHub Banner](./assets/github_banner.gif)](https://dev.to/killshot13)
+[![Michael's GitHub Banner](./assets/github_banner.svg)](https://dev.to/killshot13)
 >
 >---
 >
