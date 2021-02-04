@@ -16,7 +16,7 @@
 >
 ><p align=center
 >
->[!2020 Year In Review Snapshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=killshot13)
+>![2020 Year In Review Snapshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=killshot13)
 >
 ><p align=center
 >
