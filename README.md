@@ -16,6 +16,10 @@
 >
 ><p align=center
 >
+>[!2020 Year In Review Snapshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=killshot13)
+>
+><p align=center
+>
 >[![killshot13's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshot13&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/killshot13/github-readme-stats)
 >
 ><p align=center
