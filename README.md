@@ -80,5 +80,5 @@
 ><p align=center
 >
 ><a href="https://dev.to/killshot13"><img src="https://github.com/killshot13/killshot13/blob/master/assets/michael_rehnert_personality_overview.png" alt="Michael R.'s Personality 
-Hightlights" height="550" width="400"></a>
+Hightlights" height="500" width="415"></a>
 >
