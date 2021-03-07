@@ -73,12 +73,3 @@
 >
 >[![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)](https://www.credential.net/5c1026d8-e612-4bc5-8cf4-823935963271)
 >
->---
->
-># _*Personality*_ 
->
-><p align=center
->
-><a href="https://dev.to/killshot13"><img src="https://github.com/killshot13/killshot13/blob/master/assets/michael_rehnert_personality_overview.png" alt="Michael R.'s Personality 
-Hightlights" height="500" width="415"></a>
->
