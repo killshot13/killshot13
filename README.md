@@ -8,7 +8,7 @@
 >
 >### Welcome to my GitHub. I have a passion for web development & design, cloud computing, and voice technology.
 >
->### Browse around as you please, or check out my cool 😎 [developer profile](https://stackoverflow.com/story/killshot13) on Stack Overflow.
+>### Browse around as you please, or check out [my blog articles](https://dev.to/killshot13) in DEV Community 😎
 >
 >---
 >
