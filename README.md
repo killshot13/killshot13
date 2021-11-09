@@ -11,17 +11,17 @@
 >---
 >
 >### _**ACTIVITY**_
->|      |      |
->| :--- | ---: |
->| [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=killshot13&hide=issues&hide_rank=true&card_width=2000&count_private=true&bg_color=30,3eada4,998eb1&title_color=000&&text_color=011627)](https://github.com/killshot13/github-readme-stats) | <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/killshot13/killshot13/blob/master/devcard.svg" width="300" alt="Michael Rehnert's Dev Card"/></a> |
->| [![Michael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshot13&layout=compact&hide=java&bg_color=30,3eada4,998eb1&title_color=000&&text_color=011627&langs_count=5)](https://github.com/killshot13/github-readme-stats) |        |
+>| GitHub Stats | DEV Card |
+>| :---: | :---: |
+>| [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=killshot13&hide=issues&hide_border=true&border_radius=10&custom_title=Michael%27s%20Github%20Stats&count_private=true&line_height=24&hide_title=true&hide_rank=true&show_icons=true&theme=slateorange&bg_color=30,111a20,1c2c35)](https://github.com/killshot13/github-readme-stats) [![Michael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshot13&layout=compact&hide=java&hide_border=true&hide_title=true&border_radius=10&langs_count=5&card_width=220&theme=slateorange&bg_color=30,111a20,1c2c35)](https://github.com/killshot13/github-readme-stats) ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=killshot13&repo=express-smtp-mailer&show_icons=true&theme=slateorange&bg_color=30,111a20,1c2c35&hide_border=true&border_radius=10) | <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/killshot13/killshot13/blob/master/devcard.svg" width="350" alt="Michael Rehnert's Dev Card"/></a> |
+>
 >
 >---
 >
 >### _**EXPERIENCE**_
 >
 >| **[LANGUAGES]** | **[FRONT-END]** | **[BACK-END]** | **[DATABASES]** | **[DEVOPS]** | **[SPECIALTY]** |
->| :--- | :--- | :--- | :---: | :---: | ---: |
+>| :--- | :--- | :---: | :---: | ---: | ---: |
 >| JavaScript | WordPress | Apache HTTP | Elasticsearch | TravisCI | SharePoint |
 >| Python | React.js | REST API | PostgreSQL | Postman | SEO/Mobile |
 >| Bash | HTML5 | Node.js | Supabase | Heroku | CyberSec |
@@ -54,14 +54,6 @@
 ><p align=center
 >
 >[![Medium Badge](https://img.shields.io/badge/Medium-informational?style=for-the-badge&logo=Medium&logoColor=white&color=000000)](https://medium.com/@sth13)
->
->---
->
->### _**CERTIFICATIONS**_
->
-><p align=center
->
->[![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)](https://www.credential.net/5c1026d8-e612-4bc5-8cf4-823935963271)
 >
 >---
 >
