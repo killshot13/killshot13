@@ -2,45 +2,35 @@
 >
 >---
 >
-># _*Introduction*_
+>## _*Hi There! 👋*_
 >
->## Hi There! 👋
+>#### Welcome to my GitHub. I have a passion for web development & design, cloud computing, and voice technology.
 >
->### Welcome to my GitHub. I have a passion for web development & design, cloud computing, and voice technology.
->
->### Browse around as you please, or check out [my blog articles](https://dev.to/killshot13) in DEV Community 😎
+>#### Browse around as you please, or check out [my blog articles](https://dev.to/killshot13) in DEV Community 😎
 >
 >---
 >
-># _*Activity*_
->
-><p align=center
->
->[![killshot13's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshot13&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/killshot13/github-readme-stats)
->
-><p align=center
->
->[![Overview](https://github-readme-stats.vercel.app/api?username=killshot13&custom_title=Overview&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+>### _**ACTIVITY**_
+>|      |      |
+>| :--- | ---: |
+>| [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=killshot13&hide=issues&hide_rank=true&card_width=2000&count_private=true&bg_color=30,3eada4,998eb1&title_color=000&&text_color=011627)](https://github.com/killshot13/github-readme-stats) | <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/killshot13/killshot13/blob/master/devcard.svg" width="300" alt="Michael Rehnert's Dev Card"/></a> |
+>| [![Michael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killshot13&layout=compact&hide=java&bg_color=30,3eada4,998eb1&title_color=000&&text_color=011627&langs_count=5)](https://github.com/killshot13/github-readme-stats) |        |
 >
 >---
 >
-># _*Experience*_
+>### _**EXPERIENCE**_
 >
->♦ **Languages:** JavaScript | PHP | C# | Python | Bash
->
->♦ **Frontend:** React.js | WordPress | jQuery | HTML5 | CSS3 | SASS | Bulma
->
->♦ **Backend:** Node.js | Express | REST API | SMTP | Apache Server | Nginx
->
->♦ **Database:** MongoDB | MySQL | PostgreSQL | Access
->
->♦ **DevOps:** Docker | AWS | Heroku | Travis CI | Postman
->
->♦ **Advanced:** SEO | CyberSec | RPA | EOSIO | SharePoint
+>| **[LANGUAGES]** | **[FRONT-END]** | **[BACK-END]** | **[DATABASES]** | **[DEVOPS]** | **[SPECIALTY]** |
+>| :--- | :--- | :--- | :---: | :---: | ---: |
+>| JavaScript | WordPress | Apache HTTP | Elasticsearch | TravisCI | SharePoint |
+>| Python | React.js | REST API | PostgreSQL | Postman | SEO/Mobile |
+>| Bash | HTML5 | Node.js | Supabase | Heroku | CyberSec |
+>| Ruby | Bulma | Express | MongoDB | Docker | EOSIO |
+>| PHP | CSS3 | SMTP | MySQL | GCP | RPA |
 >
 >---
 >
-># _*Community*_
+>### _**COMMUNITY**_
 >
 ><p align=center
 >
@@ -67,9 +57,11 @@
 >
 >---
 >
-># _*Certificates*_
+>### _**CERTIFICATIONS**_
 >
 ><p align=center
 >
 >[![Ironhack Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21766030)](https://www.credential.net/5c1026d8-e612-4bc5-8cf4-823935963271)
+>
+>---
 >
