@@ -6,7 +6,7 @@
 >
 >#### Welcome to my GitHub. I have a passion for web development & design, cloud computing, and voice technology.
 >
->#### Browse around as you please, or check out [my blog articles](https://dev.to/killshot13) in DEV Community 😎
+>#### Browse around as you please, or check out [Code. Develop. Engineer.](https://rehnert.co), which is a JAMSTACK site built with Gatsby, GitHub, Netlify, and Stackbit. Here you can view all my popular blog articles about technology and web development, view my project showcase, or get in touch with me directly by submitting a request on my page. 😎
 >
 >---
 >
