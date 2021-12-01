@@ -20,10 +20,10 @@
 >
 >### _**EXPERIENCE**_
 >
->| **[LANGUAGES]** | **[FRONT-END]** | **[BACK-END]** | **[DATABASES]** | **[DEVOPS]** | **[SPECIALTY]** | **[BADGES]** |
->| :--- | :--- | :---: | :---: | ---: | ---: | :---: |
->| JavaScript | WordPress | Apache HTTP | Elasticsearch | TravisCI | SharePoint | |
->| Python | React.js | REST API | PostgreSQL | Postman | SEO/Mobile | 
+>| **[LANGUAGES]** | **[FRONT-END]** | **[BACK-END]** | **[DATABASES]** | **[DEVOPS]** | **[SPECIALTIES]** |
+>| :--- | :--- | :---: | :---: | ---: | ---: |
+>| JavaScript | WordPress | Apache HTTP | Elasticsearch | Postman | SEO/Mobile |
+>| Python | React.js | REST API | PostgreSQL | TravisCI | SharePoint |
 >| Bash | HTML5 | Node.js | Supabase | Heroku | CyberSec |
 >| Ruby | Bulma | Express | MongoDB | Docker | EOSIO |
 >| PHP | CSS3 | SMTP | MySQL | GCP | RPA |
