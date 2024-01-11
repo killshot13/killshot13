@@ -40,3 +40,5 @@
 >
 <!--  daily.dev BOOKMARKS:START -->
 <!--  daily.dev BOOKMARKS:END -->
+
+[![](https://imgs.search.brave.com/Vt6zu3pY5J3FFpIeX3MOLmzwV8c65aLlh9MXErU8g_0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9zY3Jl/ZW4tc2hvdC0yMDIw/LTEwLTA4LWF0LTEt/MjEtNDgtcG0tMTYw/MjE3NzcyNC5wbmc_/Y3JvcD0wLjY2OHh3/OjAuNzE2eGg7MC4z/MjV4dywwLjAxMDl4/aCZyZXNpemU9NjQw/Oio)]
