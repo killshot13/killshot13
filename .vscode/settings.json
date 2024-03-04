@@ -1,0 +1,6 @@
+{
+	"yaml.schemas": {
+		"https://json.schemastore.org/dependabot-2.0.json": "file:///home/sth13/code/repomy/killshot13/.github/dependabot.yml",
+		"https://json.schemastore.org/github-workflow.json": "file:///home/sth13/code/repomy/killshot13/.github/workflows/main.yml"
+	}
+}
