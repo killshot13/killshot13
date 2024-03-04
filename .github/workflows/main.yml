@@ -1,6 +1,6 @@
-name: DevCard
+name: daily-devcard
 
-permissions: 
+permissions:
   contents: write
 
 on:
@@ -18,4 +18,4 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.2.0
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          - user_id: ${{ secrets.USER_ID }}
