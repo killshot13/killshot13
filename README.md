@@ -1,4 +1,4 @@
-<h1 align='center'><img src="https://raw.githubusercontent.com/killshot13/public-assets/main/images/png/github_banner.png" alt="Michael's GitHub Banner"></h1>
+<h1 align='center'><img src="https://raw.githubusercontent.com/killshot13/public-assets/refs/heads/main/images/png/github_banner.png" alt="Michael's GitHub Banner"></h1>
 
 >## _*Hi There! 👋*_
 >
@@ -39,7 +39,7 @@
 >
 >| Full-Stack Developer | CompTIA A+ | Google Analytics |
 >| :---: | :---: | :---: |
->| <a href="https://www.credential.net/5c1026d8-e612-4bc5-8cf4-823935963271"><img src="https://raw.githubusercontent.com/killshot13/public-assets/main/images/png/ironhack_badge.png" width="250px" alt="Full-Stack Developer Certification"/></a> | <a href="https://www.credly.com/badges/73cf7965-ac01-468c-836a-7c487cb460b2/public_url"><img src="https://raw.githubusercontent.com/killshot13/public-assets/main/images/png/A+.png" width="250px" alt="CompTIA A+ Certification badge"> | <a href="https://skillshop.exceedlms.com/student/award/X0BtrNg3bJtapYjVIs7gUauS"><img src="https://i.stack.imgur.com/yXKgm.png" width="250px" alt="Google Analytics Individual Qualification"/></a> |
+>| <a href="https://www.credential.net/5c1026d8-e612-4bc5-8cf4-823935963271"><img src="https://raw.githubusercontent.com/killshot13/public-assets/refs/heads/main/images/png/ironhack_badge.png" width="250px" alt="Full-Stack Developer Certification"/></a> | <a href="https://www.credly.com/badges/73cf7965-ac01-468c-836a-7c487cb460b2/public_url"><img src="https://raw.githubusercontent.com/killshot13/public-assets/refs/heads/main/images/png/A+.png" width="250px" alt="CompTIA A+ Certification badge"> | <a href="https://skillshop.exceedlms.com/student/award/X0BtrNg3bJtapYjVIs7gUauS"><img src="https://i.stack.imgur.com/yXKgm.png" width="250px" alt="Google Analytics Individual Qualification"/></a> |
 >
 >---
 >
@@ -47,6 +47,6 @@
 >
 >| Forums & Socials |
 >| :---: |
->| <br/>[![Stack Exchange](https://stackexchange.com/users/flair/17531519.png?theme=dark)](https://stackexchange.com/users/17531519)<br/>[![Medium Badge](https://img.shields.io/badge/Medium-informational?style=for-the-badge&logo=Medium&logoColor=white&color=000000)](https://medium.com/@sth13) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmrehnert) <br />[![StackShare>](<http://img.shields.io/badge/professional-stack-f98c19.svg?&style=for-the-badge>)](<https://stackshare.io/safe-this-home-llc/main-site-stack>)<br />[![StackShare](http://img.shields.io/badge/personal-stack-17b9b0.svg?style=for-the-badge)](https://stackshare.io/killshot13/personal-stack)<br />[![Codewars Kata Badge](https://www.codewars.com/users/killshot13/badges/micro)](https://www.codewars.com/users/killshot13)<br /><br /><a href="https://dev.to/killshot13"><img src="https://raw.githubusercontent.com/killshot13/public-assets/main/images/svg/devcommunity.svg" height="50" width="50" alt="Michael R.'s DEV Community Profile"></a><br /> |
+>| <br/>[![Stack Exchange](https://stackexchange.com/users/flair/17531519.png?theme=dark)](https://stackexchange.com/users/17531519)<br/>[![Medium Badge](https://img.shields.io/badge/Medium-informational?style=for-the-badge&logo=Medium&logoColor=white&color=000000)](https://medium.com/@sth13) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmrehnert) <br />[![StackShare>](<http://img.shields.io/badge/professional-stack-f98c19.svg?&style=for-the-badge>)](<https://stackshare.io/safe-this-home-llc/main-site-stack>)<br />[![StackShare](http://img.shields.io/badge/personal-stack-17b9b0.svg?style=for-the-badge)](https://stackshare.io/killshot13/personal-stack)<br />[![Codewars Kata Badge](https://www.codewars.com/users/killshot13/badges/micro)](https://www.codewars.com/users/killshot13)<br /><br /><a href="https://dev.to/killshot13"><img src="https://raw.githubusercontent.com/killshot13/public-assets/refs/heads/main/images/svg/devcommunity.svg" height="50" width="50" alt="Michael R.'s DEV Community Profile"></a><br /> |
 <!--  daily.dev BOOKMARKS:START -->
 <!--  daily.dev BOOKMARKS:END -->
