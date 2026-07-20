@@ -19,7 +19,7 @@
 >
 >| GitHub | DEV |
 >| :---: | :---: |
->| [![Stats Overview Visualization](https://raw.githubusercontent.com/killshot13/github-stats/refs/heads/generated/overview.svg#gh-dark-mode-only)](https://github.com/killshot13/github-stats) [![Language Stats Visualization](https://raw.githubusercontent.com/killshot13/github-stats/refs/heads/generated/languages.svg#gh-dark-mode-only)](https://github.com/killshot13/express-smtp-mailer) | [![Michael Rehnert's Dev Card](https://github.com/killshot13/killshot13/blob/master/devcard.png?raw=true)](https://app.daily.dev/killshot13) |
+>| [![Stats Overview Visualization](https://raw.githubusercontent.com/killshot13/github-stats/refs/heads/generated/overview.svg#gh-dark-mode-only)](https://github.com/killshot13/github-stats/blob/generated/overview.svg?short_path=da64a7b) [![Language Stats Visualization](https://raw.githubusercontent.com/killshot13/github-stats/refs/heads/generated/languages.svg#gh-dark-mode-only)](https://github.com/killshot13/github-stats/blob/generated/languages.svg?short_path=a64f1d2) | [![Michael Rehnert's Dev Card](https://github.com/killshot13/killshot13/blob/master/devcard.png?raw=true)](https://app.daily.dev/killshot13) |
 >
 >---
 >
